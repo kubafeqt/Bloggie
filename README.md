@@ -1,3 +1,2 @@
-ASP .NET Core MVC + Entity Framework Core - Bloggie
-
+ASP .NET Core MVC + Entity Framework Core
 source code from udemy course
